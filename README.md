@@ -31,43 +31,43 @@ Hi! I'm Von, a passionate IT student and developer. I enjoy creating web and Ard
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 💻 Web Systems Projects
+###  Web Systems Projects
 
-#### 📊 Attendance Management System
+####  Attendance Management System
 - **Description:** A comprehensive QR Code-based attendance tracking system featuring real-time monitoring, automated reporting dashboard, and analytics. Built with modern web technologies to streamline attendance management for educational institutions and businesses.
 - **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap, QR Code API
 
-#### 🏠 Boarding House Management
+####  Boarding House Management
 - **Description:** Complete tenant management solution with automated billing system, room assignment features, and comprehensive payment tracking. Includes tenant profiles, lease management, and financial reporting capabilities.
 - **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
 
-#### 🏥 Healthcare Management System
+####  Healthcare Management System
 - **Description:** Integrated healthcare platform managing patient appointments, comprehensive medical records, and health worker schedules. Features patient history tracking, appointment scheduling, and medical staff management.
 - **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript, Chart.js
 
-#### 📦 Inventory Management System
+####  Inventory Management System
 - **Description:** Advanced stock monitoring system with real-time sales analytics and automated profit alerts specifically designed for cosmetics retail. Features low-stock notifications, sales forecasting, and supplier management.
 - **Tech Stack:** PHP, MySQL, JavaScript, Chart.js, Bootstrap
 
-### 🔧 Arduino + Database Integration Projects
+###  Arduino + Database Integration Projects
 
-#### 📱 RFID Attendance System
+####  RFID Attendance System
 - **Description:** Automated attendance tracking using RFID technology integrated with MySQL database. Features real-time data logging, automated report generation, and web-based dashboard for monitoring attendance patterns and statistics.
 - **Tech Stack:** Arduino, RFID, MySQL, PHP, ESP32
 
-#### 🐭 Smart Mousetrap System
+####  Smart Mousetrap System
 - **Description:** IoT-enabled motion-sensor mousetraps with database logging and SMS alert integration. Features trap status monitoring, catch statistics, and automated notifications to property managers when traps are triggered.
 - **Tech Stack:** Arduino, Motion Sensor, MySQL, ESP32
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Von's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vonnnnnnnnn05&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vonnnnnnnnn05&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-## 🎯 What I Focus On
+##  What I Focus On
 
 - **Problem-Solving:** Creating solutions that address real-world challenges
 - **Integration:** Combining hardware (Arduino) with software (Web Systems)
