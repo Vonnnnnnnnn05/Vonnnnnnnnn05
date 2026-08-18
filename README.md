@@ -1,6 +1,6 @@
 # Von Esson A. Vergara
 
-IT Student · Web & IoT Developer
+IT Student · Web Developer
 
 I build simple, functional web systems and Arduino-based projects focused on solving real-world problems through clean logic and practical design.
 
