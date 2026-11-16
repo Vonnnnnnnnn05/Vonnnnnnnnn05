@@ -1,80 +1,65 @@
 # Von Esson A. Vergara
 
-IT Student · Web Developer
+### Web Developer · Backend Developer · Server Administration
 
-I build simple, functional web systems and Arduino-based projects focused on solving real-world problems through clean logic and practical design.
-
----
-
-## About
-
-I’m an Information Technology student with a strong interest in backend systems, database-driven applications, and hardware–software integration.  
-I enjoy turning ideas into working systems that are efficient, maintainable, and user-focused.
+I build functional, database-driven web applications and work with server deployment, VPS configuration, and web hosting. I focus on developing practical solutions and making applications accessible, reliable, and maintainable.
 
 ---
 
-## Tech Stack
+## About Me
 
-**Web & Backend**
+I'm a developer passionate about backend development, database management, and web infrastructure.
+
+I have experience developing web-based systems, configuring VPS environments, deploying applications, and managing domains and DNS records. I enjoy exploring technologies and building solutions that bridge application development and server infrastructure.
+
+---
+
+## Tech Stack & Tools
+
+**Web Development**
+
 - HTML, CSS, JavaScript
 - PHP, MySQL
-- Bootstrap, CodeIgniter
+- Bootstrap
+- CodeIgniter
+- Laravel
+-
 
-**Hardware / IoT**
-- Arduino
-- ESP32
-- RFID & Sensors
+**Server & Hosting**
 
-**Tools**
-- VS Code
-- Git
-- XAMPP
-- Arduino IDE
+- Linux / Ubuntu Server
+- VPS Configuration and Management
+- Nginx Web Server
+- PHP and MySQL Server Setup
+- Domain and DNS Configuration (A, CNAME Records)
+- SSL Certificate Configuration
+- Application Deployment and Hosting
 
----
+**Cloud & Infrastructure**
 
-## Selected Projects
-
-### Attendance Management System  
-QR code–based attendance system with real-time tracking, reporting, and analytics.  
-**Stack:** PHP, MySQL, JavaScript, Bootstrap
-
-### Boarding House Management System  
-Tenant and billing management system with payment tracking and reporting.  
-**Stack:** PHP, MySQL, JavaScript
-
-### Healthcare Management System  
-Patient records and appointment scheduling platform with data visualization.  
-**Stack:** PHP, MySQL, JavaScript, Chart.js
-
-### Inventory Management System  
-Stock monitoring system with sales analytics and alerts.  
-**Stack:** PHP, MySQL, JavaScript, Chart.js
+- Microsoft Azure
+- Virtual Machines
+- Cloud Server Management
+- Remote Server Administration (SSH)
+- Git and GitHub
 
 ---
 
-## Arduino + Database Projects
+## Areas of Interest
 
-### RFID Attendance System  
-RFID-based attendance logging with web dashboard integration.  
-**Stack:** Arduino, ESP32, MySQL, PHP
-
-### Smart Mousetrap System  
-Motion-detection system with database logging and notifications.  
-**Stack:** Arduino, ESP32, Sensors
-
----
-
-## Focus Areas
-
-- Backend & database-driven systems  
-- Hardware–software integration  
-- Clean, functional UI  
-- Practical problem-solving  
-- IoT applications
+- Backend and Database-Driven Development
+- Web Application Deployment
+- VPS and Linux Server Administration
+- Domain Management and DNS Configuration
+- Web Hosting
+- Building Scalable and Maintainable Systems
 
 ---
 
 ## GitHub
 
 [github.com/Vonnnnnnnnn05](https://github.com/Vonnnnnnnnn05)
+
+---
+
+*Always learning, building, and exploring new technologies.*
